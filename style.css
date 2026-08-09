@@ -1,0 +1,72 @@
+
+.container {
+
+font-style: Arial, "Times New Roman", sans-serif;
+border: 20px solid black;
+height: 1000px;
+}
+
+
+.title {
+background: red;
+color: white;
+font-size: 40px;
+text-align: center;
+margin: auto;
+padding: 20px;
+
+}
+
+.subtitle {
+
+background: red;
+color: white;
+font-size: 40px;
+text-align: center;
+
+
+}
+
+.Lasagna {
+background-color: rgb(255, 196, 0);
+color: black;
+font-size: 20px;
+margin-right: 60em;
+margin-bottom: 60px;
+margin-top: 60px;
+padding: 20px;
+border: solid yellow;
+text-align: center;
+
+
+}
+
+a {
+font-size: 30px;
+margin-top: 30px;
+
+}
+
+.Bandeja-Paisa {
+background-color: green;
+color: black;
+font-size: 20px;
+margin-right: 60em;
+margin-bottom: 60px;
+margin-top: 60px;
+padding: 20px;
+text-align: center;
+
+}
+
+.Frito-Pastuso {
+background-color: Blue;
+color: black;
+font-size: 20px;
+margin-right: 60em;
+margin-bottom: 60px;
+margin-top: 60px;
+padding: 20px;
+text-align: center;
+
+}
