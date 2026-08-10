@@ -28,14 +28,14 @@ text-align: center;
 }
 
 .Lasagna {
-background-color: rgb(255, 196, 0);
+background-color: blue;
 color: black;
 font-size: 20px;
 margin-right: 60em;
 margin-bottom: 60px;
 margin-top: 60px;
 padding: 20px;
-border: solid yellow;
+border: solid blue;
 text-align: center;
 
 
@@ -48,7 +48,7 @@ margin-top: 30px;
 }
 
 .Bandeja-Paisa {
-background-color: green;
+background-color: brown;
 color: black;
 font-size: 20px;
 margin-right: 60em;
@@ -60,7 +60,7 @@ text-align: center;
 }
 
 .Frito-Pastuso {
-background-color: Blue;
+background-color: green;
 color: black;
 font-size: 20px;
 margin-right: 60em;
