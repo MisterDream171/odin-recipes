@@ -1,0 +1,97 @@
+#title {
+
+padding: 40px;
+border-left: 150px solid blue;
+border-right: 150px solid blue;
+border-top: 30px solid blue;
+border-bottom: 30px solid blue;
+
+}
+
+h1 {
+
+background: blue;
+color: white;
+padding: 30px;
+text-align: center;
+margin-left: 400px;
+margin-right: 400px;
+}
+
+.lasagna {
+
+margin-left: 490px;
+margin-right: 500px;
+
+}
+
+img {
+
+display: block;
+width: 530px;
+height: 300px;
+
+}
+
+p {
+
+text-align: center;
+font-size: 25px;
+font-style: "Times New Roman" Arial sans-serif
+
+}
+
+ 
+.steps {
+
+font-size: 25px;
+margin-left: 500px;
+margin-right: 500px;
+
+}
+
+.title {
+font-size: 25px;
+margin-left: 500px;
+margin-right: 500px;
+
+}
+
+.ingredients {
+
+font-size: 25px;
+margin-left: 600px;
+margin-right: 600px;
+}
+
+li {
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+
+h2 {
+
+text-align: center;
+padding: 30px;
+background: blue;
+color: white;
+
+}
+
+h3 {
+text-align: center;
+padding: 30px;
+background: yellow;
+color: black;
+font-size: 25px;
+margin-left: 600px;
+margin-right: 600px;
+margin-top: 30px;
+}
+
+a {
+display: block;
+text-align: center;
+font-size: 30px;
+}
