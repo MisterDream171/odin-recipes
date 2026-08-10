@@ -1,0 +1,84 @@
+* {
+margin: 20px 20px 20px 20px;
+
+}
+
+.start {
+padding: 20px;
+border-left: 100px solid brown;
+border-right: 100px solid #a52a2a;
+border-top: 20px solid brown;
+border-bottom: 20px solid brown;
+}
+
+h1 {
+background: brown;
+color:white;
+text-align: center;
+padding: 20px;
+margin-left: 400px;
+margin-right: 400px;
+}
+
+.image1 {
+display: block;
+margin-left: 460px;
+width: 600px;
+height: 300px;
+
+}
+
+p {
+
+font-size: 30px;
+font-style: "Times New Roman" sans-serif;
+margin-left: 1000;
+margin-right: 300px;
+}
+
+.ingredients,
+.steps {
+background-color: brown;
+padding: 20px;
+text-align: center;
+color: white;
+margin-left: 400px;
+margin-right: 400px;
+
+}
+
+.container {
+
+text-align: left;
+margin-left: 650px;
+font-style: Arial "Times New Roman" sans-serif;
+font-size: 30px;
+
+}
+
+.container2 {
+margin-left: 200px;
+font-size: 30px;
+
+}
+
+h3 {
+
+background-color: yellow;
+font-size: 30px;
+margin-top: 30px;
+margin-right: 500px;
+margin-left: 500px;
+text-align: center;
+
+}
+
+a {
+
+display: block;
+margin-top: 30px;
+font-size: 30px;
+text-align: center;
+
+}
+
