@@ -1,0 +1,81 @@
+.margin {
+border-right: solid 200px green;
+border-left: solid 200px green;
+border-top: solid 20px green;
+border-bottom: solid 20px green;
+
+}
+
+#title, .title2, .title3 {
+
+padding: 30px;
+background: green;
+color: white;;
+margin-left:480px;
+margin-right: 400px;
+margin-top: 20px;
+margin-bottom: 30px;
+text-align: center;
+font-size: 30px;
+font-style: Arial, "Times New Roman", sans-serif;
+font-weight: bold;
+}
+
+
+img {
+
+display: inline-block;
+margin-left: 32em;
+margin-right: 20px;
+width: 500px;
+height: 300px;
+margin-top: 30px;
+margin-bottom: 30px;
+
+
+
+}
+
+p {
+
+padding: 30px;
+margin: 20px;
+font-family: Arial, "Times New Roman", sans-serif;
+text-align: center;
+font-size: 30px;
+
+}
+
+.ingredients {
+
+margin-left: 650px;
+font-size: 30px;
+font-family: Arial, "Times New Roman", sans-serif;
+
+}
+
+.steps {
+
+margin-left: 400px;
+font-size: 30px;
+font-family: Arial, "Times New Roman", sans-serif;
+}
+
+h3 {
+
+background: yellow;
+padding: 20px;
+font-family: Arial, "Times New Roman", sans-serif;
+text-align: center;
+margin-left: 500px;
+margin-right:500px
+}
+
+a {
+
+display: block;
+font-size: 30px;
+text-align: center;
+margin-bottom: 30px;
+
+}
